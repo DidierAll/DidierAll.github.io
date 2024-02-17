@@ -1,4 +1,4 @@
-[Home](./Readme.html)  |  [Resume](./resume.md)     |  [Portfolio](./portfolio.md)  |  [Research](./research.md)  | 
+[Home](./README.md)  |  [Resume](./resume.md)     |  [Portfolio](./portfolio.md)  |  [Research](./research.md)  | 
 
 ## PROFILE SUMMARY
 
