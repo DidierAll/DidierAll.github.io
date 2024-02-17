@@ -22,11 +22,18 @@ As a co-Principal Investigator at the Kessler Foundation to this NJ Commission o
 4. Handiru, V. S., Suviseshamuthu, E. S., Saleh, S., Yue, G. H., & Allexandre, D. (2022). Identifying the Neural Correlates of Balance Deficits in Traumatic Brain Injury using the Partial Least Squares Correlation (PLSC) analysis.
 Identifying the Neural Correlates of Balance Deficits in Traumatic Brain Injury using the Partial Least Squares Correlation (PLSC) analysis
 
+![Figure 1. Data Analysis Pipeline](/images/PLSC_fig1.jpg)
+
+![Figure 2. Brain Connectivity comparison between Balance impaired (BI-TBI), non-impaired (BN-TBI) TBI participants and Healthy Controls (HC)](/images/PLSC_fig3.jpg)
+
+![Figure 3. Results from the MC-PLSC highlighting decrease in connectivity for EEG theta band for Balance impaired (BI-TBI) compared to non-impaired (BN-TBI) TBI participants and Healthy Controls (HC)](/images/PLSC_fig4.jpg)
+
+
 ## Atrial Fibrillation Classification from short ECG (CINC 2017 Challenge)
 
 This project is inspired from CINC challenge which is aimed to develop machine learning algorithms to classify short single lead ECG recordings (between 30 s and 60 s in length) between normal sinus rhythm, atrial fibrillation (AF), or alternative rhythm, or is too noisy to be classified. 
 
-![Figure 1. Example of the ECG waveforms](https://github.com/DidierAll/ShortECG_AF-Classification_CINC2017/blob/main/figures/example_waveforms.svg)
+![Figure 1. Example of the ECG waveforms](/images/example_waveforms.svg)
 
 In this project, we start by building a simpler two-class classifier distinguishing between normal sinus rhythm and abnormal rhythm (atrial fibrillation included) by excluding the noisy recordings. We thus used 7,418 out of the original 8,528 training data recordings. 
 
