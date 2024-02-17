@@ -1,3 +1,5 @@
+|  [Resume](./resume.html)     |  [Portfolio](./portfolio.html)  |  [Research](./research.html)  | 
+
 # About Me
 
 I am dedicated to revolutionizing healthcare and improving health and wellness by advancing research and innovation in neuro-engineering and digital health technologies powered by machine learning, AI, and wearable technology.
