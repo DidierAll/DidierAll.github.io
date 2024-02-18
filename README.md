@@ -13,8 +13,11 @@ I have an extensive clinical and scientific experience measuring, understanding,
 I am a detail-oriented and cross-functional collaborator with excellent communication & interpersonal skills. I excel at identifying and nurturing individual talents while providing an environment and resource to foster self-development and personal growth. Given my strong technical background, I thrive in leading collaborative effort to solve complex technological challenges to drive research, innovation and product development success.
 
 [LinkedIn Profile](https://www.linkedin.com/in/didier-allexandre-269b9b12/)
+
 [ResearchGate Profile](https://www.researchgate.net/profile/Didier-Allexandre)
+
 [Scholar Profile](https://scholar.google.com/citations?hl=en&user=lHPH2fgAAAAJ)
+
 [Github Profile](https://github.com/DidierAll)
 
 
