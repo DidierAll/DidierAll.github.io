@@ -1,4 +1,4 @@
-[Home](./README.md)  |  [Resume](./resume.md)     |  [Portfolio](./portfolio.md)  |  [Research](./research.md)  | 
+### **| [Home](./README.md)  |  [Resume](./resume.md)     |  [Portfolio](./portfolio.md)  |  [Research](./research.md)  |** 
 
 ## PROFILE SUMMARY
 
@@ -57,31 +57,31 @@ Whitaker Fellowship, Case Western Reserve University (1999 – 2004).
 [Machine learning (Standford)](https://coursera.org/share/652a2989293bc53c55c298d3f09a6fa6), 
 [Deep Learning (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/specialization/XN72ZHBLM6YV), 
 [Data scientist with Python (Datacamp)](https://www.datacamp.com/statement-of-accomplishment/course/69b3c5a97a7922e837d29d95223811bf6b8526ab), 
-AI in Healthcare (Udacity) 
+[AI in Healthcare (Udacity)](https://www.udacity.com/course/ai-for-healthcare-nanodegree--nd320) 
 
 ### Leadership
 Leadership Seminar Series (one of 5% selected by the CEO) 
 
 ## SKILLS AND QUALIFICATIONS
  
-**Management and Leadership** – Lab Director | Team lead & manager (scientists, post-docs, engineers, and research assistants) | Roadmap/OKR | Clinical trial design, implementation & management | IRB/regulatory | Budget 
+**Management and Leadership** – Lab Director \| Team lead & manager (scientists, post-docs, engineers, and research assistants) \| Roadmap/OKR \| Clinical trial design, implementation & management \| IRB/regulatory \| Budget 
 
-**Machine Learning/Data Analysis** – Multivariate analysis (PLS-C/R/DA) | Unsupervised ML (PCA, ICA, clustering, recommender syst.) | Supervised ML (linear/logistic regression, SVM, tree-based) | Deep Learning (CNN, RNN, NLP)
+**Machine Learning/Data Analysis** – Multivariate analysis (PLS-C/R/DA) \| Unsupervised ML (PCA, ICA, clustering, recommender syst.) \| Supervised ML (linear/logistic regression, SVM, tree-based) \| Deep Learning (CNN, RNN, NLP)
 
-**Wearable and Biomedical Sensors and Technology** – Electromyography (EMG) | Electroencephalography (EEG, ERP) | Inertial Measurement Units (IMU) | Force plates | Heart rate (ECG, HRV, PPG) | Respiration | Skin conductance (EDA) 
+**Wearable and Biomedical Sensors and Technology** – Electromyography (EMG) \| Electroencephalography (EEG, ERP) \| Inertial Measurement Units (IMU) \| Force plates \| Heart rate (ECG, HRV, PPG) \| Respiration \| Skin conductance (EDA) 
 
-**Biomedical Signal Processing** – Filtering | Artifact reduction | Time-frequency analysis and decomposition (Fourier, wavelets, EMD, Hilbert spectrum) | Auto/cross correlations, coherence | Peak-detection
+**Biomedical Signal Processing** – Filtering \| Artifact reduction \| Time-frequency analysis and decomposition (Fourier, wavelets, EMD, Hilbert spectrum) \| Auto/cross correlations, coherence \| Peak-detection
 
-**Neuroengineering & neurorehabilitation (stroke, TBI, cancer, spinal cord injury)** – Neural marker of physical fatigue | Balance and movement impairment | Movement disorder | Brain Stimulation (rTMS, tDCS) | Multimodal investigation using electrophysiology (EEG, EMG), peripheral and brain stimulation (TMS, SEP), functional/structural neuroimaging (DTI, fMRI) 
+**Neuroengineering & neurorehabilitation (stroke, TBI, cancer, spinal cord injury)** – Neural marker of physical fatigue \| Balance and movement impairment \| Movement disorder \| Brain Stimulation (rTMS, tDCS) \| Multimodal investigation using electrophysiology (EEG, EMG), peripheral and brain stimulation (TMS, SEP), functional/structural neuroimaging (DTI, fMRI) 
 
-**Cardiac Electrophysiology Modeling and Analysis** – Cardiac cell and tissue electrophysiology modeling | Ordinary and partial differential equation modeling and simulation | Linear perturbation theory analysis 
+**Cardiac Electrophysiology Modeling and Analysis** – Cardiac cell and tissue electrophysiology modeling \| Ordinary and partial differential equation modeling and simulation \| Linear perturbation theory analysis 
 
-**Mindfulness, Relaxation, Stress in Health and Wellness** – Psychophysiological measures and analysis | Evidence based psycho-behavioral measures | Mindfulness program development
+**Mindfulness, Relaxation, Stress in Health and Wellness** – Psychophysiological measures and analysis \| Evidence based psycho-behavioral measures \| Mindfulness program development
 
 **Data Science Programming** – MATLAB, Python (Numpy, Matplotlib, Seaborn, Pandas, Scipy, Scikit-learn, Keras/Tensor Flow), SQL.
 
 **PM and Data Science Software** – Atlassian (Confluence, Jira, …), AWS, Git/Bitbucket, Jupyter, Smartsheet
 
-**Statistics** – GLM, Mixed model, bootstrap, permutation | SPSS, JMP, MATLAB, MS Excel.
+**Statistics** – GLM, Mixed model, bootstrap, permutation \| SPSS, JMP, MATLAB, MS Excel.
 **Language** – Fluent in French/English.   Other: EEGlab, Cadence, Spice, Simulink 
 
