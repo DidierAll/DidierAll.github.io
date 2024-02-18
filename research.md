@@ -19,6 +19,7 @@ As a co-Principal Investigator at the Kessler Foundation to this NJ Commission o
 ![Figure 3. Results from the MC-PLSC highlighting decrease in connectivity for EEG theta band for Balance impaired (BI-TBI) compared to non-impaired (BN-TBI) TBI participants and Healthy Controls (HC)](/images/PLSC_fig4.jpg)
 -->
 
+<!-- Commenting this:
 **Figure 1.** _Data Analysis Pipeline_ <br /> 
 <img src="/images/PLSC_fig1.jpg" alt="Figure 1. Data Analysis Pipeline" style="width:500px;"/>
 
@@ -27,5 +28,8 @@ As a co-Principal Investigator at the Kessler Foundation to this NJ Commission o
 
 **Figure 1.** _Results from the MC-PLSC highlighting decrease in connectivity for EEG theta band for Balance impaired (BI-TBI) compared to non-impaired (BN-TBI) TBI participants and Healthy Controls (HC)_ <br /> 
 <img src="/images/PLSC_fig4.jpg" alt="Figure 3. MC-PLSC results" style="width:500px;"/>
+-->
 
 ## Cancer-Related Weakness and Fatigue
+
+## Psychophysiological and Health Detrimental Effect of Stress and Benefit of Relaxation
