@@ -2,15 +2,13 @@
 
 # About Me
 
-I am dedicated to revolutionizing healthcare and improving health and wellness by advancing research and innovation in neuro-engineering and digital health technologies powered by machine learning, AI, and wearable technology.
+My passion and mission are to improve health and wellness, by advancing research and innovation in neuro-engineering and digital health technologies, leveraging the power of data science, machine learning, wearables, and neuro-technology.
 
-I have over 10 years of leadership experience and over 20 years of scientific and clinical research and development expertise in wearable, biosensors, digital health, and neurotechnology. Applications of my work span remote health monitoring, movement disorders, neurorehabilitation, psychophysiological and cardiovascular effect of stress and relaxation, and overall health and wellness.
+With 10 years of leadership experience and 20+ years of scientific, technical and clinical expertise in neural and cardiac electrophysiology, data science, machine learning, biosensors, neuroimaging and neurotechnology, I have spearheaded research and development innovations in remote health monitoring, movement impairment, neurorehabilitation, and digital health and wellness. 
  
-Throughout my career in academia and industry, I have honed my technical skills in neural and cardiac electrophysiology, data science, machine learning, algorithm development, and advanced analysis of clinical and biosensor data. 
+Using technology and advanced analytics, I have led and collaborated on several clinical research and validation trials to measure, better understand and/or improve physiological, health and wellness outcomes in cancer survivors, in patients suffering from stroke, traumatic brain injury, spinal cord injury, autism, and cardiovascular disease, as well as in the general population. 
 
-I have an extensive clinical and scientific experience measuring, understanding, and improving physiological, health and wellness outcomes across diverse populations, including healthy and elderly as well as cancer survivors, stroke, traumatic brain injury, spinal cord injury, autism, and cardiovascular disease patients.
-
-I am a detail-oriented and cross-functional collaborator with excellent communication & interpersonal skills. I excel at identifying and nurturing individual talents while providing an environment and resource to foster self-development and personal growth. Given my strong technical background, I thrive in leading collaborative effort to solve complex technological challenges to drive research, innovation and product development success.
+As an empathic leader, I am a detail-oriented and cross-functional collaborator with excellent communication & interpersonal skills. Leveraging my strong technical background, I have built high-performing teams to solve complex technological challenges to drive research, innovation and product development success. 
 
 [LinkedIn Profile](https://www.linkedin.com/in/didier-allexandre-269b9b12/)
 
