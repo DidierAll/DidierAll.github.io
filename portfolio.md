@@ -2,7 +2,7 @@
 
 # Data Science Portfolio (Selected Projects)
 
-[![Figure 1. Example of the ECG waveforms](/images/example_waveforms.svg)](./portfolio.md#atrial-fibrillation-classification-from-short-ecg-recordings-cinc-2017-challenge)
+[![Figure 1. Example of the ECG waveforms](/images/example_waveforms.svg)](./portfolio.html#atrial-fibrillation-classification-from-short-ecg-recordings-cinc-2017-challenge)
 
 ## Atrial Fibrillation Classification from short ECG recordings (CINC 2017 Challenge)
 
