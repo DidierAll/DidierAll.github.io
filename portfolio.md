@@ -2,6 +2,8 @@
 
 # Data Science Portfolio (Selected Projects)
 
+[![Figure 1. Example of the ECG waveforms](/images/example_waveforms.svg)](./portfolio.md#atrial-fibrillation-classification-from-short-ecg-recordings-cinc-2017-challenge)
+
 ## Atrial Fibrillation Classification from short ECG recordings (CINC 2017 Challenge)
 
 This project based on the [CINC 2017 challenge](https://physionet.org/content/challenge-2017/1.0.0), aimed to develop machine learning algorithms to classify cardiac arrhytmia from short single lead ECG recordings (between 30 s and 60 s in length) into normal sinus rhythm, atrial fibrillation (AF), alternative rhythm, or data which is too noisy to be classified. 
