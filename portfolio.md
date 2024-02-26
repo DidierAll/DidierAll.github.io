@@ -2,9 +2,29 @@
 
 # Data Science Portfolio (Selected Projects)
 
-[![Figure 1. Example of the ECG waveforms](/images/example_waveforms.svg)](./portfolio.html#atrial-fibrillation-classification-from-short-ecg-recordings-cinc-2017-challenge)
+This page highlights a few datascience projects to highlight some of my expertise/experience. Other datascience projects can be found in [my Research page](./research.md). More projects to come.
 
-## Atrial Fibrillation Classification from short ECG recordings (CINC 2017 Challenge)
+|:-------------------------:|:-------------------------:|
+| [![Fall Project](/images/Portfolio_Fall_small.jpg?h=300&w=300)](https://didierall.github.io/portfolio.html#Fall-Detection-Algorithm-from-IMU-Data)          |        [![ECG Afib Project](/images/Portfolio_ECG_small.jpg?h=300&w=300)](https://didierall.github.io/portfolio.html#atrial-fibrillation-classification-from-short-ecg-recordings-cinc-2017-challenge)   |
+| [![Activity Project](/images/Portfolio_Activity_small.jpg?h=300&w=300)](https://didierall.github.io/portfolio.html#activity-classification-from-IMU-data)          |        [![SignalBrowser Project](/images/Portfolio_SignalBrowser_small2.jpg?h=300&w=300)](https://didierall.github.io/portfolio.html#signalbrowser)   |
+
+<!-- Commenting this: 
+|:-------------------------:|:-------------------------:|
+|        [<figure><img width="300" alt="Fall detection" src="/images/Portfolio_Fall_small.JPG"></figure>](https://didierall.github.io/portfolio.html#Fall-Detection-Algorithm-from-IMU-Data)    |    [<img width="300" alt="Afib detection" src="/images/Portfolio_ECG_small.JPG">] (https://didierall.github.io/portfolio.html#atrial-fibrillation-classification-from-short-ecg-recordings-cinc-2017-challenge)     |
+|        [<img width="300" alt="Activity Classification" src="/images/Portfolio_Activity_small.JPG">](https://didierall.github.io/portfolio.html#activity-classification-from-IMU-data)    |      [<img width="300" alt="Signal Browser" src="/images/Portfolio_SignalBrowser_small2.JPG">](https://didierall.github.io/portfolio.html#signalbrowser)    |
+-->
+
+## Fall Detection Algorithm from IMU Data
+The goal of this project conducted at Biofourmis was to develop an embedded real-time fall detection algorithm for the upper arm Everion wearable device. The main challenge lied in building a "light-weight" algorithm given the memory and computational limit of the wearable. For confidentiality reason, this project can only be described in general terms, which is still of value, given its real world application. 
+
+The project was performed in several phases:
+1. A clinical research study was first conducted to collect wearable data for a variety of falls and activity of daily living (ADL) tasks in the lab and from a 24hrs real-world contimuous recordings at home, to obtain some fall and non-fall data to develop the algorithm
+2. A "large" model  with no limitations in terms of type of classifier or number of features was then developed to create a benchmark for what performance could be achieved. The best performance was obtained from an XGboost classifier and included several thousands of features computed from a short sliding data window.
+3. Subsequently, we developed a "light-weigth" algorithm using a linear regression classifier. Given the limitations associated with its linear nature, the original performance was poor. Following an analysis of false positives, additional feature engineering, feature selection and reduction, a high performing linear regression model was developed with only 10-20 features.
+4. Finally, the above python-based model was implemented and optimized to the specific device firmware architecture and code.
+5. The final algorithm achieved a sensitivity>85% and specificity >99.9999%, equivalent to a false positive rate of 1 fall/2 weeks based on simulation and verification testing.
+
+## Cardiac Arrhytmia Classification from Short ECG Recordings (CINC 2017 Challenge)
 
 This project based on the [CINC 2017 challenge](https://physionet.org/content/challenge-2017/1.0.0), aimed to develop machine learning algorithms to classify cardiac arrhytmia from short single lead ECG recordings (between 30 s and 60 s in length) into normal sinus rhythm, atrial fibrillation (AF), alternative rhythm, or data which is too noisy to be classified. 
 
@@ -28,7 +48,7 @@ Skills and concepts covered:
 
 Python libraries: numpy, pandas, matplotlib, seaborn, scipy, sklearn 
 
-The project notebook can be found in my [github repository](https://github.com/DidierAll/ShortECG_AF-Classification_CINC2017/blob/main/AF_Classification.ipynb)
+The project notebook can be found in [my github repository](https://github.com/DidierAll/ShortECG_AF-Classification_CINC2017/blob/main/AF_Classification.ipynb)
 
 **Figure 2.** _Confusion Matrices comparing Model Performances highlighting the Balanced Random Forest having a more "balanced" accuracy across the 3 classes at aroud 60-80%_ <br />
 ![Figure 2. Confusion Matrices](/images/CINC2017_ConfusionMatrices.png)  
@@ -47,7 +67,7 @@ Skills and concepts used:
 
 Python libraries: numpy, pandas, matplotlib, seaborn, scipy, sklearn
 
-The project notebook can be found in my [github repository](https://github.com/DidierAll/Activity_Classification-Biking/blob/main/Activity%20Classification%20-%20Biking.ipynb)
+The project notebook can be found in [my github repository](https://github.com/DidierAll/Activity_Classification-Biking/blob/main/Activity%20Classification%20-%20Biking.ipynb)
 
 **Figure 1.** _Raw Data from Subject s3_ <br /> 
 ![Figure 1. Confusion Matrices](/images/RawData_s3.JPG) 
@@ -72,9 +92,9 @@ The project notebook can be found in my [github repository](https://github.com/D
 
 ## SignalBrowser
 
-SignalBrowser is a graphic user interface software tool, I developed in Matlab to load, process and analyze psychophysiological data (ECG, respiration and skin conductance). 
+*SignalBrowser* is a graphic user interface software tool, that I developed in Matlab to load, process and analyze psychophysiological data (ECG, respiration and skin conductance). 
 
-This tool was used to process and analyze psychophysiological data for several research projects conducted at the Cleveland Clinic looking at the autonomic nervous system and molecular/inflammatory response of stress and relaxation (see _resume_ and _research projects_ pages)
+This tool was developed to compute and analyze psychophysiological outcomes (heart rate, HRV, respiration rate, skin conductance response) for several research projects conducted at the Cleveland Clinic to investigate the autonomic nervous system and molecular/inflammatory response of stress and relaxation (see _resume_ and _research projects_ pages).
 
 Mode details can be found in [my github repository](https://github.com/DidierAll/SignalBrowser/edit/main/README.md)
 
