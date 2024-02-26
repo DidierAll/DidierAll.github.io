@@ -5,8 +5,8 @@
 This page highlights a few datascience projects to highlight some of my expertise/experience. Other datascience projects can be found in [my Research page](./research.md). More projects to come.
 
 |:-------------------------:|:-------------------------:|
-| [![Fall Project](/images/Portfolio_Fall_small.jpg?h=300&w=300)](https://didierall.github.io/portfolio.html#Fall-Detection-Algorithm-from-IMU-Data)          |        [![ECG Afib Project](/images/Portfolio_ECG_small.jpg?h=300&w=300)](https://didierall.github.io/portfolio.html#atrial-fibrillation-classification-from-short-ecg-recordings-cinc-2017-challenge)   |
-| [![Activity Project](/images/Portfolio_Activity_small.jpg?h=300&w=300)](https://didierall.github.io/portfolio.html#activity-classification-from-IMU-data)          |        [![SignalBrowser Project](/images/Portfolio_SignalBrowser_small2.jpg?h=300&w=300)](https://didierall.github.io/portfolio.html#signalbrowser)   |
+| [![Fall Project](/images/Portfolio_Fall_small.jpg?h=300&w=300)](https://didierall.github.io/portfolio.html#fall-detection-algorithm-from-imu-data)          |        [![ECG Afib Project](/images/Portfolio_ECG_small.jpg?h=300&w=300)](https://didierall.github.io/portfolio.html#cardiac-arrhytmia-classification-from-short-ecg-recordings-cinc-2017-challenge)   |
+| [![Activity Project](/images/Portfolio_Activity_small.jpg?h=300&w=300)](https://didierall.github.io/portfolio.html#activity-classification-from-imu-data)          |        [![SignalBrowser Project](/images/Portfolio_SignalBrowser_small2.jpg?h=300&w=300)](https://didierall.github.io/portfolio.html#signalbrowser)   |
 
 <!-- Commenting this: 
 |:-------------------------:|:-------------------------:|
