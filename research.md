@@ -38,10 +38,10 @@ This research aims at identifying a specific biomarker whose magnitude scales wi
 
 1.	Allexandre D., Handiru H.V., Hoxha A., Mark D., Selvan S.E., Yue G.H. (2021) Altered Modulation of the Movement-Related Beta Desynchronization with Force in Stroke – a Pilot Study. IEEE EMBS 2021 pp 6751-6754. [doi: 10.1109/EMBC46164.2021.9630192](https://doi.org/10.1109/EMBC46164.2021.9630192).
 
-**Figure 1.** _Figure 1. Neural Biormarker of stroke impairment showing linear relation between brain activity and force in impaired vs non-impaired hand which can be used as a potential therapeutic target_ <br />  
+**Figure 1.** _Neural Biormarker of stroke impairment showing linear relation between brain activity and force in impaired vs non-impaired hand which can be used as a potential therapeutic target_ <br />  
 <img src="/images/Stroke-BCI_EEG biomarker.JPG" alt="Neural Biomarker" style="width:500px;"/> 
 
-**Figure 2.** _Figure 2. Neural Target for BCI robot-assisted neurofeedback rehabilitation in Stroke Hand Impairment_ <br />  
+**Figure 2.** _Neural Target for BCI robot-assisted neurofeedback rehabilitation in Stroke Hand Impairment_ <br />  
 <img src="/images/Stroke-BCI_BCI Schematic.JPG" alt="Figure 1. BCI Schematic" style="width:500px;"/> 
 
 ### Brain Stimulation for neurorehabilitation in stroke, TBI and SCI
@@ -68,7 +68,7 @@ This research effort at Kessler foundation has been to elucidate the central vs 
 ## Psychophysiological and Health Detriment of Stress and Benefit of Relaxation
 
 ### The effectiveness and underlying mechanism of a Mindful Attention Program for Traumatic Brain Injury – A randomized clinical trial.
-This rigorous randomized controlled trial funded by a NIDILLR Field Initiated Grant (90IFRE0016) is assessing the effectiveness of a mindfulness intervention at improving attention and present moment awareness as well as emotional well-being and regulation, and social functioning. Using MRI neuroimaging, it will also investigate the neural mechanisms of improvement associated with attentional regulation.  
+This ongoing rigorous randomized controlled trial conducted at kessler Foundation and funded by a National Institute on Disability and Rehabilitation Research (NIDILRR) Field Initiated Grant (90IFRE0016) is evaluating the psycho-emotional benefit of mindfulness in Traumatic Brain Injury. It will assess the effectiveness of the mindfulness at improving attention and present moment awareness as well as emotional well-being and regulation, and social functioning. Using MRI neuroimaging, it will also investigate the neural mechanisms of improvement associated with attentional regulation.  
 
 
 ### Digital Health Benefit of Mindfulness ([Stress Free Now](http://www.clevelandclinicwellness.com/Pages/StressFreeNow.htm)) and sleep ([Go! to Sleep<sup>SM</sup>]()) 
@@ -78,5 +78,8 @@ Research performed at the Cleveland Clinic Wellness Institute to assess the effi
 1. Morledge, T. J., Allexandre, D., Fox, E., Fu, A. Z., Higashi, M. K., Kruzikas, D. T., ... & Reese, P. R. (2013). Feasibility of an online mindfulness program for stress management—a randomized, controlled trial. Annals of behavioral medicine, 46(2), 137-148. [doi: 10.1007/s12160-013-9490-x](https://doi.org/10.1007/s12160-013-9490-x)
 2. Allexandre, D., Bernstein, A. M., Walker, E., Hunter, J., Roizen, M. F., & Morledge, T. J. (2016). A web-based mindfulness stress management program in a corporate call center: a randomized clinical trial to evaluate the added benefit of onsite group support. Journal of occupational and environmental medicine, 58(3), 254. [doi: 10.1097/JOM.0000000000000680](https://doi.org/10.1097%2FJOM.0000000000000680)
 3. Bernstein, A. M., Allexandre, D., Bena, J., Doyle, J., Gendy, G., Wang, L., ... & Drerup, M. (2017). “Go! to sleep”: a web-based therapy for insomnia. Telemedicine and e-Health, 23(7), 590-599. [doi: 10.1089/tmj.2016.0208](https://doi.org/10.1089/tmj.2016.0208)
+
+**Figure 1.** _Psychophysiological relaxation response of guided imagery_ <br />  
+<img src="/images/GuidedImagery_Fig1b.JPG" alt="Guided Imagery" style="width:500px;"/> 
 
 
