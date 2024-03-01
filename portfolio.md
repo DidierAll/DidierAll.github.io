@@ -1,8 +1,8 @@
 ### **| [Home](./README.md)  |  [Resume](./resume.md)     |  [Portfolio](./portfolio.md)  |  [Research](./research.md)  |** 
 
-# Data Science Portfolio (Selected Projects)
+# Data Science Portfolio
 
-This page highlights a few datascience projects to highlight some of my expertise/experience. Other datascience projects can be found in [my Research page](./research.md). More projects to come.
+This page highlights a few selected datascience projects to highlight some of my expertise/experience. Other datascience projects can be found in [my Research page](./research.md). More projects to come.
 
 |:-------------------------:|:-------------------------:|
 | [![Fall Project](/images/Portfolio_Fall_small.jpg?h=300&w=300)](https://didierall.github.io/portfolio.html#fall-detection-algorithm-from-imu-data)          |        [![ECG Afib Project](/images/Portfolio_ECG_small.jpg?h=300&w=300)](https://didierall.github.io/portfolio.html#cardiac-arrhytmia-classification-from-short-ecg-recordings-cinc-2017-challenge)   |
