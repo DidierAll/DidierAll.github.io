@@ -12,18 +12,19 @@ A passionate data scientist lead and biomedical engineer ♦ Over 10 years of ma
 
 ### DATASCIENCE MANAGER – BIOFOURMIS	10/2022-10/2023
 **Contributor and team lead for the activity/IMU-based machine learning algorithms development and improvement** for the FDA cleared Everion wearable and Care@Home platform. 
-• Responsible for projects roadmap, staff hiring & training, development/validation study design & management, data collection & analysis, algorithm development/validation, internal/FDA regulatory submission.
-• ** Led and completed a fall (85% sensitivity, FPR of 1 fall/2 weeks) and posture algoritms (accuracy>85%) development for firmware implementation ** (1) completed a clinical research study to collect wearable data for a Fall/ADL tasks in the lab and 24hrs at home (2) led and/or contributed to the development of the "light-weight" optimized machine learning algorithm from data preparation, feature design, model training to model and algorithm optimization for device firmware implementation.
-• Led the performance analysis and improvement of the movement level activity, step count and sleep algorithms
-• Designed, obtained IRB approval, and implemented the movement level activity validation study in collaboration with the clinical study team and lab manager
-• ** Contributed to the data science validation and verification of 3rd party wearables & digital health technology integration** to the Biofourmis Platform for Life Science/Pharma clients.
-• **Contributed to the creation of the Biofourmis' Innovation Lab** for internal data collection
-• Cross-functional collaboration with clinical affairs, data engineering, software engineering, firmware developer, product and digital health project managers, legal, marketing
+- Responsible for projects roadmap, staff hiring & training, development/validation study design & management, data collection & analysis, algorithm development/validation, internal/FDA regulatory submission.
+- **Led and completed a fall (85% sensitivity, FPR of 1 fall/2 weeks) and posture algoritms (accuracy>85%) development for firmware implementation** (1) completed a clinical research study to collect wearable data for a Fall/ADL tasks in the lab and 24hrs at home (2) led and/or contributed to the development of the "light-weight" optimized machine learning algorithm from data preparation, feature design, model training to model and algorithm optimization for device firmware implementation.
+- Led the performance analysis and improvement of the movement level activity, step count and sleep algorithms
+- Designed, obtained IRB approval, and implemented the movement level activity validation study in collaboration with the clinical study team and lab manager
+- **Contributed to the data science validation and verification of 3rd party wearables & digital health technology integration** to the Biofourmis Platform for Life Science/Pharma clients.
+- **Contributed to the creation of the Biofourmis' Innovation Lab** for internal data collection
+- Cross-functional collaboration with clinical affairs, data engineering, software engineering, firmware developer, product and digital health project managers, legal, marketing
 
 
-### SENIOR RESEARCH SCIENTIST – KESSLER FOUNDATION (WEST ORANGE, NJ)	01/2021-01/2022
-#### ASSOCIATE PROFESSOR – Rutgers NJ Medical School (Newark, NJ) 	10/2018-01/2022
-#### RESEARCH SCIENTIST – Kessler Foundation (West Orange, NJ)	09/2012-01/2021
+### SENIOR RESEARCH SCIENTIST – KESSLER FOUNDATION (WEST ORANGE, NJ)	09/2012-01/2022
+**SENIOR RESEARCH SCIENTIST – KESSLER FOUNDATION (WEST ORANGE, NJ)	01/2021-01/2022** </br>
+**ASSOCIATE PROFESSOR – Rutgers NJ Medical School (Newark, NJ) 	10/2018-01/2022** </br>
+**RESEARCH SCIENTIST – Kessler Foundation (West Orange, NJ)	09/2012-01/2021**
 
 -	**Director - Built and led the Neuromuscular & Electrophysiology Research Lab (mobile EEG, EMG, TMS, tDCS)**
 -	**Secured $1.1M and led/co-led $3.3M in federally/state funded clinical trials** investigating the neurophysiological mechanisms of psychomotor impairment and novel rehab therapies in stroke, TBI, spinal cord injury, autism, cancer.
@@ -34,8 +35,7 @@ A passionate data scientist lead and biomedical engineer ♦ Over 10 years of ma
 
 
 ### RESEARCH FELLOW/SCIENTIST – Cleveland Clinic (Cleveland, OH) – Biomedical Eng./Wellness Inst.	10/2004-08/2012
-**Biomedical Engineering Department/Wellness Institute - 08/2010-08/2012**
-
+**Biomedical Engineering Department/Wellness Institute - 08/2010-08/2012**</br>
 **Molecular Cardiology Department/Center for Integrative Medicine - 10/2004-07/2010**
 
 - **Managed the collection, processing, and analysis of electrophysiological data (EEG, EMG, TMS)** for several projects investigating the neuromuscular and neurophysiological side effects of cancer and cancer treatment
