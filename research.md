@@ -2,6 +2,11 @@
 
 # Research
 
+I have spearheaded research and development innovations in movement impairment, neurorehabilitation, and digital health and wellness, pioneering the use of mobile EEG, EMG, wearables, neuroimaging and AI & advanced analytics. My research interest can be grouped into 2 major research areas:
+- Investigating the cortical and neuromuscular mechanisms of psychomotor impairment and novel rehab therapies in stroke, TBI, spinal cord injury, autism, cancer. This included investigating the efficacy of virtual reality, mental imagery, robot-assistance and brain stimulation in neurological rehabilitation.
+- Studying the psychophysiological mechanism and psychoemotional health effect of stress and benefit of relaxation, digital wellness interventions and mindfulness attention in neurological disease. 
+
+
 ## Movement Disorder and Rehabilitation in Neurological Disease
 
 ### Neurophysiological markers of Balance Deficit in Traumatic Brain Injury

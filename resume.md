@@ -6,29 +6,43 @@ A passionate data scientist lead and biomedical engineer ♦ Over 10 years of ma
 
 ## RESEARCH AND WORK EXPERIENCE
 
+### SENIOR RESEARCH SCIENTIST CONSULTANT – KESSLER FOUNDATION	02/2022-Present
+-	Scientific contribution to data processing and analysis of electrophysiological and neuroimaging data (EEG, EMG, TMS, MRI, fMRI, DTI) & manuscript writing on ongoing rehabilitation research projects.
+
+
 ### DATASCIENCE MANAGER – BIOFOURMIS	10/2022-10/2023
--	Contributor and team lead for the activity/IMU-based machine learning algorithms development and improvement for the FDA cleared Everion wearable (fall, posture, sleep, step counts)
--	Developed a light ML algorithm for fall detection: 85% sensitivity, false positive rate of 1 fall/2 weeks.
--	Responsibilities included  recruitment, roadmap, study design, data collection, development, validation.
-SENIOR RESEARCH SCIENTIST CONSULTANT – KESSLER FOUNDATION	02/2022-10/2022
--	Performed and provided consultation on the processing and analysis of electrophysiological and neuroimaging data EEG, EMG, TMS, MRI, fMRI, DTI) & Scientific publication and grant writing on rehabilitation research projects.
+**Contributor and team lead for the activity/IMU-based machine learning algorithms development and improvement** for the FDA cleared Everion wearable and Care@Home platform. 
+• Responsible for projects roadmap, staff hiring & training, development/validation study design & management, data collection & analysis, algorithm development/validation, internal/FDA regulatory submission.
+• ** Led and completed a fall (85% sensitivity, FPR of 1 fall/2 weeks) and posture algoritms (accuracy>85%) development for firmware implementation ** (1) completed a clinical research study to collect wearable data for a Fall/ADL tasks in the lab and 24hrs at home (2) led and/or contributed to the development of the "light-weight" optimized machine learning algorithm from data preparation, feature design, model training to model and algorithm optimization for device firmware implementation.
+• Led the performance analysis and improvement of the movement level activity, step count and sleep algorithms
+• Designed, obtained IRB approval, and implemented the movement level activity validation study in collaboration with the clinical study team and lab manager
+• ** Contributed to the data science validation and verification of 3rd party wearables & digital health technology integration** to the Biofourmis Platform for Life Science/Pharma clients.
+• **Contributed to the creation of the Biofourmis' Innovation Lab** for internal data collection
+• Cross-functional collaboration with clinical affairs, data engineering, software engineering, firmware developer, product and digital health project managers, legal, marketing
+
 
 ### SENIOR RESEARCH SCIENTIST – KESSLER FOUNDATION (WEST ORANGE, NJ)	01/2021-01/2022
 #### ASSOCIATE PROFESSOR – Rutgers NJ Medical School (Newark, NJ) 	10/2018-01/2022
 #### RESEARCH SCIENTIST – Kessler Foundation (West Orange, NJ)	09/2012-01/2021
 
--	Director - Neuromuscular and Electrophysiology Research Lab – Secured $1.1M in funding & Led or co-led $3.3M in federally/state funded clinical trials in rehabilitation engineering on the neurophysiological mechanisms of motor impairment and effectiveness of novel therapies (robot-assisted rehabilitation, brain stimulation, mindfulness to improve attention, etc.) in stroke, TBI, spinal cord injury, cancer-related fatigue.
--	Developed and implemented experimental designs and perform/supervise the collection, processing, and analysis of electrophysiological and neuroimaging data (EEG, EMG, TMS, MRI, fMRI, DTI).
+-	**Director - Built and led the Neuromuscular & Electrophysiology Research Lab (mobile EEG, EMG, TMS, tDCS)**
+-	**Secured $1.1M and led/co-led $3.3M in federally/state funded clinical trials** investigating the neurophysiological mechanisms of psychomotor impairment and novel rehab therapies in stroke, TBI, spinal cord injury, autism, cancer.
+-	**Pioneered the use of mobile EEG, EMG, wearables, AI & advanced analytics and study of virtual reality, mental imagery, robot-assistance, brain stimulation & mindfulness therapies in neurological rehabilitation research**. 
+-	Developed and implemented experimental designs and performed/supervised the collection, processing, and analysis of electrophysiological and neuroimaging data (EEG, EMG, TMS, MRI, fMRI, DTI).
 -	Led a multidisciplinary team of research scientists, post-doctoral fellows, engineers, and research assistants.
+-	Collaborated on several neuropsychology, autism, neuroscience, neuroimaging, spinal stimulation research projects with scientists at Kessler Foundation as well as physicians and therapists at the Kessler Rehabilitation Institute
 
-### RESEARCH FELLOW/SCIENTIST – Cleveland Clinic (Cleveland, OH) – Biomedical Eng./Wellness Inst.	08/2010-08/2012
--	Managed the data collection, processing, and analysis of electrophysiological recordings (EEG, EMG, TMS) for several projects investigating the neuromuscular and neurophysiological side effects of     cancer and cancer treatment
--	Led clinical trials on the efficacy of online wellness programs for stress management, sleep, and diet. 
 
-### RESEARCH FELLOW – Cleveland Clinic (Cleveland, OH) – Molecular Cardiology/Biomedical Eng.	10/2004-07/2010
--	Developed, implemented, and managed clinical trials investigating neurophysiologic & molecular pathways linking stress to cardiovascular disease, and relaxation to well-being, collaborating with clinicians, clinical lab & statisticians.
--	Led and supervised the design, implementation, collection and analysis of psychophysiological data.
--	Developed a user interfaced program in MATLAB to process & analyze ECG, HRV, respiration and skin conductance. 
+### RESEARCH FELLOW/SCIENTIST – Cleveland Clinic (Cleveland, OH) – Biomedical Eng./Wellness Inst.	10/2004-08/2012
+**Biomedical Engineering Department/Wellness Institute - 08/2010-08/2012**
+
+**Molecular Cardiology Department/Center for Integrative Medicine - 10/2004-07/2010**
+
+- **Managed the collection, processing, and analysis of electrophysiological data (EEG, EMG, TMS)** for several projects investigating the neuromuscular and neurophysiological side effects of cancer and cancer treatment
+- **Led digital health research on the efficacy of online wellness programs for mindfulness-based stress management, sleep and diet**. Positive outcomes from the trials had major impact in generating interest, driving sale and helping secure contracts with important corporate clients such as General Electric.
+- **Developed, implemented, and managed clinical trials investigating neurophysiologic & molecular pathways linking stress to cardiovascular disease, and relaxation to well-being**, collaborating with clinicians, clinical lab & statisticians. Trials sponsored by the National Institutes of Health and the Bakken Heart Brain Institute.
+  - Led and supervised the design, implementation, collection and analysis of psychophysiological data.
+  - Developed a program in MATLAB to process & analyze ECG, HRV, respiration and skin conductance.
 
 ### PH.D. STUDENT – Case Western Reserve University (Cleveland, OH) – Biomedical Eng. Dept.	01/1999-08/2004
 -	Computer modeling and advanced mathematical methods (linear perturbation theory) to study cardiac arrhythmia. 
