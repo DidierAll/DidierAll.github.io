@@ -15,14 +15,17 @@ This page highlights a few selected datascience projects to highlight some of my
 -->
 
 ## Fall Detection Algorithm from IMU Data
-The goal of this project conducted at Biofourmis was to develop an embedded real-time fall detection algorithm for the upper arm Everion wearable device. The main challenge lied in building a "light-weight" algorithm given the memory and computational limit of the wearable. For confidentiality reason, this project can only be described in general terms, which is still of value, given its real world application. 
+*For confidentiality reason, I can only provide an overall description of the project highlighting the experience gained in dealing with a real world application*. 
+
+The goal of this project conducted at Biofourmis was to develop an embedded real-time fall detection algorithm for the upper arm Everion wearable device using IMU accelerator and gyroscope sensor data. Being a fall alert detection algorithm, the first major challenge was to achieve a sensitivity>85% while keeping the false positive rate really low, to much less than 1 fall/day i.e. specificity>0.9999 to avoid an "alert" fatigue.
+Another major challenge lied in building a "light-weight" algorithm given the memory and computational hardware limitations of the wearable device. 
 
 The project was performed in several phases:
-1. A clinical research study was first conducted to collect wearable data for a variety of falls and activity of daily living (ADL) tasks in the lab and from a 24hrs real-world contimuous recordings at home, to obtain some fall and non-fall data to develop the algorithm
-2. A "large" model  with no limitations in terms of type of classifier or number of features was then developed to create a benchmark for what performance could be achieved. The best performance was obtained from an XGboost classifier and included several thousands of features computed from a short sliding data window.
-3. Subsequently, we developed a "light-weigth" algorithm using a linear regression classifier. Given the limitations associated with its linear nature, the original performance was poor. Following an analysis of false positives, additional feature engineering, feature selection and reduction, a high performing linear regression model was developed with only 10-20 features.
-4. Finally, the above python-based model was implemented and optimized to the specific device firmware architecture and code.
-5. The final algorithm achieved a sensitivity>85% and specificity >99.9999%, equivalent to a false positive rate of 1 fall/2 weeks based on simulation and verification testing.
+1. A clinical research study was first conducted to collect wearable data for a variety of falls and activity of daily living (ADL) tasks in the lab and from a 24hrs real-world contimuous recordings at home, to obtain some fall and non-fall data to develop the algorithm.
+2. A "large" model  with no limitations in terms of type of classifier or number of features was then developed to create a performance benchmark. The best performance was obtained from an XGboost classifier and included several thousands of features computed from a short sliding data window.
+3. Subsequently, we developed a "light-weight" algorithm using a linear regression classifier. Given the limitations associated with its linear nature, the original model performance was poor. To solve this problem, our main effort focused on further developing innovative feature engineering, by analyzing false positives. Following feature optimization, selection and reduction, a high performing linear regression model was developed with only 10-20 features.
+4. In its final phase, the above python-based model was implemented and optimized to the specific device firmware architecture and code.
+5. Despite its light-weight, the resulting algorithm achieved remarkable performance with a sensitivity>85% and specificity >99.99999%, equivalent to a false positive rate of 1 fall/2 weeks based on our simulation and verification testing (leave-one-out cross validation and unseen dataset).
 
 ## Cardiac Arrhytmia Classification from Short ECG Recordings (CINC 2017 Challenge)
 

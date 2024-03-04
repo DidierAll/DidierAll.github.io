@@ -2,9 +2,9 @@
 
 # Research
 
-I have spearheaded research and development innovations in movement impairment, neurorehabilitation, and digital health and wellness, pioneering the use of mobile EEG, EMG, wearables, neuroimaging and AI & advanced analytics. My research interest can be grouped into 2 major research areas:
+I have spearheaded research and development innovations in movement impairment, neurorehabilitation, and digital health and wellness, pioneering the use of mobile EEG & EMG, wearables, neuroimaging and AI & advanced analytics. My research interest can be grouped into 2 major areas:
 - Investigating the cortical and neuromuscular mechanisms of psychomotor impairment and novel rehab therapies in stroke, TBI, spinal cord injury, autism, cancer. This included investigating the efficacy of virtual reality, mental imagery, robot-assistance and brain stimulation in neurological rehabilitation.
-- Studying the psychophysiological mechanism and psychoemotional health effect of stress and benefit of relaxation, digital wellness interventions and mindfulness attention in neurological disease. 
+- Studying the psychophysiological mechanisms and psychoemotional health effect of stress and benefit of relaxation, digital wellness interventions and mindfulness attention in neurological disease. 
 
 
 ## Movement Disorder and Rehabilitation in Neurological Disease
@@ -72,9 +72,17 @@ This research effort at Kessler foundation has been to elucidate the central vs 
 
 ## Psychophysiological and Health Detriment of Stress and Benefit of Relaxation
 
-### The effectiveness and underlying mechanism of a Mindful Attention Program for Traumatic Brain Injury – A randomized clinical trial.
-This ongoing rigorous randomized controlled trial conducted at kessler Foundation and funded by a National Institute on Disability and Rehabilitation Research (NIDILRR) Field Initiated Grant (90IFRE0016) is evaluating the psycho-emotional benefit of mindfulness in Traumatic Brain Injury. It will assess the effectiveness of the mindfulness at improving attention and present moment awareness as well as emotional well-being and regulation, and social functioning. Using MRI neuroimaging, it will also investigate the neural mechanisms of improvement associated with attentional regulation.  
+### The effectiveness and underlying mechanism of a remote Mindful Attention Program for Traumatic Brain Injury – A randomized clinical trial.
+This ongoing rigorous randomized controlled trial, now led by my co-principal investigator, [Jean Lengenfelder](https://kesslerfoundation.org/aboutus/Jean%20Lengenfelder) at kessler Foundation, is funded by a Field Initiated Grant (90IFRE0016) from the National Institute on Disability and Rehabilitation Research (NIDILRR). 
 
+This study is investigating the effectiveness of an remote 10-week mindfulness attention program in improving attention and present moment awareness, emotional well-being and regulation, and social functioning using  neuropsychological testing, and self-reporting questionnaires. It is also investigating the neural mechanisms of improvement associated with attention regulation using MRI neuroimaging. 
+
+The 10-week mindfulness program inspired from the well-known mindfulness-based stress reduction program, was specifically developed to address some of the neuropsychological challenges often affecting people with traumatic braing injury.
+
+Results from this recently completed trial will be coming soon. 
+
+**Figure 1.** _Screenshots of the minfulness attention program and example of the variability in attention during the Sustained Attention Response Task (SART) neuropsychological test_ <br />  
+<img src="/images/Mindfulness_Fig1.JPG" alt="Mindfulness" style="width:500px;"/> 
 
 ### Digital Health Benefit of Mindfulness ([Stress Free Now](http://www.clevelandclinicwellness.com/Pages/StressFreeNow.htm)) and sleep ([Go! to Sleep<sup>SM</sup>]()) 
 
